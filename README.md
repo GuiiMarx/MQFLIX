@@ -1,4 +1,3 @@
-
 # MQFLIX
 
 Recriação da página do NETFLIX com HTML, CSS e JavaScript.
