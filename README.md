@@ -34,7 +34,6 @@ Este projeto é uma recriação da interface do usuário da Netflix, utilizando 
 
 ## Capturas de Tela
 
-![Home Page](path/to/screenshot.png)
 
 ## Contribuição
 
