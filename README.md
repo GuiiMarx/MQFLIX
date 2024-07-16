@@ -31,6 +31,7 @@ Este projeto é uma recriação da interface do usuário da Netflix, utilizando 
    ```
 3. Abra o arquivo `index.html` em um navegador web.
 
+
 ## Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e enviar pull requests.
