@@ -21,6 +21,7 @@ Este projeto é uma recriação da interface do usuário da Netflix, utilizando 
 
 ## Como Executar
 
+
 1. Clone o repositório:
    ```sh
    git clone https://github.com/GuiiMarx/MQFLIX.git
